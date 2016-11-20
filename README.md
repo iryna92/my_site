@@ -1,2 +1,2 @@
 # my_site
-site
+This is repository for my CV page
